@@ -13,6 +13,6 @@ public class TestGit {
         System.out.println(name);
     }
     public String test(String name){
-        return "我是:"+name;
+        return "我是谁:"+name;
     }
 }
