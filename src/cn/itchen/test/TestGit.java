@@ -12,6 +12,12 @@ public class TestGit {
         String name = new TestGit().test("陈超");
         System.out.println(name);
         //我修改过
+        //我修改过
+        //我修改过
+        //我修改过
+        //我修改过
+        //我修改过
+        //我修改过
     }
     public String test(String name){
         return "我是谁:"+name;
